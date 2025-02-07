@@ -1,13 +1,12 @@
-Day 1: date
+Day 1: 6/2/2025
 
-learn
-html tags --> <a></a> <li>
-implement
-challenges
---commit
+Learned -  Basic git commands, html tags, css
+Implement - Created a simple html file styled using css
+Challenges - Faced difficulty in setting up ssh key.
 
-Day 2: date
 
-learn
-implement
-challenges
+Day 2: 7/2/2025
+
+Learned - Html tags -><header>,<nav>,<a href>,<figure>,<img src>,<span>,<p>,<button>
+Implement - Created a home page that navigates to dofferent sections. Included pictures too.
+Challenges - Faced difficulty in positioning the picture in correct fit.
