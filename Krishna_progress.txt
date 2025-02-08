@@ -10,3 +10,9 @@ Day 2: 7/2/2025
 Learned - Html tags -><header>,<nav>,<a href>,<figure>,<img src>,<span>,<p>,<button>
 Implement - Created a home page that navigates to dofferent sections. Included pictures too.
 Challenges - Faced difficulty in positioning the picture in correct fit.
+
+Day 3: 8/2/2025
+
+Learned - Html tags -> <li>,<b>, to create separate folder for images and provide the path in link
+Implement - Created multiple webpages like skills,experience,projects,education and contact using separate css.
+Challenges - Faced difficulty in positioning the header tab as same for all and to provide path for images.
