@@ -16,3 +16,12 @@ Day 3: 8/2/2025
 Learned - Html tags -> <li>,<b>, to create separate folder for images and provide the path in link
 Implement - Created multiple webpages like skills,experience,projects,education and contact using separate css.
 Challenges - Faced difficulty in positioning the header tab as same for all and to provide path for images.
+
+Day 4: 9/2/2025
+
+Learned - Html tags -> <section>, to create separate section ids for all those in the home page. 
+          CSS elements -> to give separate styles for all sections using #.
+Implement - Merged multiple webpages skills,experience,projects,education and contact to index.html using section tag and styled using css.
+            Provided link for download CV and hire me button to function.
+            Finally portfolio is created.
+Challenges - Faced difficulty in providing different styles for each sections as all are in same external css.
